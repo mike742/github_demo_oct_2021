@@ -10,6 +10,14 @@ I thins it's _an italic_
 I thins it's **a bold**
 I thins it's __a bold__
 
+* Item 1
+* Item 2
+* Item 3
+	* Item 3.1
+	* Item 3.2
+* Item 4
+
+
 
 
 
